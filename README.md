@@ -202,8 +202,14 @@ FoodLoop is a coordination layer, not a food certifier. It enforces a hygiene ch
 - **Cold start:** forecasting needs data; it begins with simple baselines.
 - **AI limits:** image-based freshness checks are advisory and can be wrong.
 
-## Team
-Team name : Deepminded
-Team Members: -Rohan Maddhesiya
-              -Lilesh Sahu
-              -Mohd Talib
+### Team
+
+**Team Name:** Deepminded
+
+**Team Members:**
+- Rohan Maddheshiya
+- Lilesh Sahu
+- Mohd Talib
+
+
+
