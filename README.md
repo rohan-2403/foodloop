@@ -204,3 +204,6 @@ FoodLoop is a coordination layer, not a food certifier. It enforces a hygiene ch
 
 ## Team
 Team name : Deepminded
+Rohan Maddhesiya
+Lilesh Sahu
+Mohd Talib
