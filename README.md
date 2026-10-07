@@ -203,4 +203,4 @@ FoodLoop is a coordination layer, not a food certifier. It enforces a hygiene ch
 - **AI limits:** image-based freshness checks are advisory and can be wrong.
 
 ## Team
-*(Add team name and member names here.)*
+Team name : Deepminded
